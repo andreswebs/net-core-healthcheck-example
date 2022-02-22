@@ -14,3 +14,10 @@ Exposes two healthcheck endpoints:
 msbuild MockAPI.sln /p:DeployOnBuild=true /p:PublishProfile=Properties\PublishProfiles\FolderProfile.pubxml
 ```
 
+## Authors
+
+**Andre Silva** - [@andreswebs](https://github.com/andreswebs)
+
+## License
+
+This project is licensed under the [Unlicense](UNLICENSE.md).
